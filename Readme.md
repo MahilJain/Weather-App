@@ -13,7 +13,7 @@ A modern, responsive weather application built with vanilla JavaScript that prov
 
 ## Demo
 
-[Live Demo]([https://your-weather-app-demo.com](https://mahiljain.github.io/Weather-App/))
+[https://mahiljain.github.io/Weather-App/]
 
 ## Screenshots
 
