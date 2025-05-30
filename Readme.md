@@ -13,14 +13,14 @@ A modern, responsive weather application built with vanilla JavaScript that prov
 
 ## Demo
 
-[Live Demo](https://your-weather-app-demo.com) *(Add your deployment link)*
+[Live Demo]([https://your-weather-app-demo.com](https://mahiljain.github.io/Weather-App/))
 
 ## Screenshots
 
-![Weather App Screenshot](./screenshots/main-view.png)
+![Weather App Screenshot](![Screenshot 2025-05-30 132808](https://github.com/user-attachments/assets/940f5441-55f6-4c6d-ac17-d73981912031)
+)
 *Main weather display*
 
-![Search Feature](./screenshots/search.png)
 *City search functionality*
 
 ## Installation
